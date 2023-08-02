@@ -1,3 +1,5 @@
-# restapi
-# RestAPI
-# RestAPI
+![controllers](https://github.com/Sannikanti-nikhithasri/RestAPI/assets/134261671/d68f6914-c40e-4c61-af07-3dbfddfccff9)
+![Demo1Application](https://github.com/Sannikanti-nikhithasri/RestAPI/assets/134261671/0cdaff72-966d-48e4-ab9e-a53b1c2c50d2)
+![models](https://github.com/Sannikanti-nikhithasri/RestAPI/assets/134261671/f542326f-4217-4da2-901f-9ab748c54c0f)
+![repository](https://github.com/Sannikanti-nikhithasri/RestAPI/assets/134261671/79524d3e-b1ef-474e-9594-c7b4202fdb9c)
+![service](https://github.com/Sannikanti-nikhithasri/RestAPI/assets/134261671/676a4fa7-bf35-4d98-9a9b-f3e2bbe66a14)
